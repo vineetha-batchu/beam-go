@@ -7,7 +7,7 @@
 ### Run wordcount (the below comand didn't work for me)
 `go install github.com/apache/beam/sdks/v2/go/examples/wordcount`
 
-###  Run Word Count 
+###  So, I used the following command to run
  `go run wordcount.go --input sample.txt --output counts`
 
  #### After running the above command, it asked me to get the following 
