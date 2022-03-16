@@ -1,4 +1,5 @@
 
+### Intall GoLang and check for the forsion
 `go version`
 
 ### Get the SDK and the examples
