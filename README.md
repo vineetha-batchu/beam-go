@@ -1,11 +1,11 @@
 
-### Intall GoLang and check for the Version
+### Install GoLang and check for the Version
 `go version`
 
 ### Get the SDK and the examples
 `go get -u github.com/apache/beam/sdks/v2/go/pkg/beam`
 
-### Run wordcount (the below comand didn't work for me)
+### Run wordcount (the below command didn't work for me)
 `go install github.com/apache/beam/sdks/v2/go/examples/wordcount`
 
 ###  So, I used the following command to run
